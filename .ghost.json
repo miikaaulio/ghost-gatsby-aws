@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "http://13.49.19.210",
+    "contentApiKey": "115a157b8ca04eb98ad31d4040"
+  },
+  "production": {
+    "apiUrl": "http://13.49.19.210",
+    "contentApiKey": "115a157b8ca04eb98ad31d4040"
+  }
+}
